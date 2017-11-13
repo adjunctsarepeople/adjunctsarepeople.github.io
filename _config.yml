@@ -24,7 +24,7 @@ url: ""
 baseurl: ""
 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 
 
 # Use the following plug-ins
