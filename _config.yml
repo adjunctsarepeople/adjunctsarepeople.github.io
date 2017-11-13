@@ -24,10 +24,8 @@ url: ""
 baseurl: ""
 
 markdown: kramdown
+theme: minima
 
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 plugins:
