@@ -4,4 +4,7 @@ title: links
 permalink: /links/
 ---
 
-Here are some orgs that we are down with.
+Further reading:
+
+- [CUNY Struggle](https://cunystruggle.org/)
+- [CUNY Adjunct Project](http://cunyadjunctproject.org/)
