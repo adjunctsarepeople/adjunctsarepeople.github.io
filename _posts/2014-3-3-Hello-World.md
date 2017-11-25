@@ -11,10 +11,16 @@ Adjuncts don’t need to stop whining or a get another job. This model of academ
 What is the solution? $7k per course and meaningful job security. This would mean adjuncts teaching full course loads would make between $42,000-$54,000.
 
 CUNY has the [money](https://www.nytimes.com/2017/02/21/nyregion/city-college-of-new-york-president-investigation.html?_r=0). 
+
 Paying adjuncts a living wage would not come at the expense of student financial aid.
+
 Paying adjuncts a living wage would not mean adjunct jobs would be cut.
+
 Paying adjuncts a living wage would mean less adjunct turnover and more long term support for students.
+
 Paying adjuncts a living wage means adjuncts can take fewer side jobs and dedicate time to projects, writing and research.
+
 Paying adjuncts a living wage and providing them with job security means academic freedom. 
+
 Paying adjuncts a living wage and proving them with job security means an adjunct can afford to get sick.
 
