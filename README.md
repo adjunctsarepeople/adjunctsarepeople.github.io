@@ -4,3 +4,4 @@ Site is powered by [**Jekyll**](https://github.com/jekyll/jekyll).
 
 Theme is [**Jekyll Now**](https://github.com/barryclark/jekyll-now).
 
+Main site url: http://payadjunctsalivingwageyouassholes.com/
