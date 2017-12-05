@@ -10,4 +10,4 @@ A: Corrupt CUNY upper management has chronically mismanaged CUNY's funding, and 
 
 Q: Why should I care?
 
-A: If you or anyone you know has attended college, this issue affects you. Because of the transient nature of adjunct postings, students recieve less attention, miss out on mentorship opportunities, and often struggle to find professors to write their reccomendation letters. These consequences have a lasting impact on a student's future and career, even after graduation.
+A: If you or anyone you know has attended college, this issue affects you. Because of the transient nature of adjunct postings, students recieve less attention, miss out on mentorship opportunities, and struggle to find professors to write reccomendation letters. These consequences have a lasting impact on a student's future and career, even after graduation.
