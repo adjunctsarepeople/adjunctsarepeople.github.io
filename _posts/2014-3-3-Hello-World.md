@@ -23,11 +23,11 @@ Paying adjuncts a living wage would not come at the expense of student financial
 
 Paying adjuncts a living wage would not mean adjunct jobs would be cut.
 
+Paying adjuncts a living wage would mean less hustling from campus to campus and more time with students.
+
 Paying adjuncts a living wage would mean less adjunct turnover and more long term support for students.
 
-Paying adjuncts a living wage means adjuncts can take fewer side jobs and dedicate time to projects, writing and research.
+Paying adjuncts a living wage and providing them with job security means adjuncts can plan their lives and families, tend to their health, and enjoy the same adacemic academic freedom as their tenured colleagues. 
 
-Paying adjuncts a living wage and providing them with job security means academic freedom. 
 
-Paying adjuncts a living wage and proving them with job security means an adjunct can afford to get sick.
 
